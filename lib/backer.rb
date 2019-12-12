@@ -1,5 +1,4 @@
 require_relative '../lib/project'
-
 class Backer
   
 attr_reader :name, :project
